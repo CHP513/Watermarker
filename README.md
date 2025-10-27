@@ -15,10 +15,10 @@ This Python projects uses a simple GUI tool that allows you to upload an image, 
 - Python 3.7+
 - Libraries:
   - `tkinter` (bundled with Python)
-  - 'Pillow' (https://pillow.readthedocs.io/en/stable/)
+  - ['Pillow'] (https://pillow.readthedocs.io/en/stable/)
  
-  Install dependencies with:
-  ```bash
+Install dependencies with:
+```bash
 pip install PIL
 ```
 
