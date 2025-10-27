@@ -26,7 +26,11 @@ pip install PIL
 
 ## ▶️ GUI Usage
 1. Clone or download this repository.
-2. Run the program:
+2. Update the paths to the '/Pictures' files inside **'main.py'**:
+   ```python
+   SOURCE_DIRECTORY = ("path/to/Pictures")
+   ```
+3. Run the program:
   ```bash
    python main.py
    ```
